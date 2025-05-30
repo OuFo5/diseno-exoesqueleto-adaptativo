@@ -1,0 +1,15 @@
+Derechos de uso y licencia del contenido
+
+Este repositorio contiene materiales correspondientes al desarrollo de un proyecto de tesis de grado, incluyendo archivos de diseño, modelos 3D, código, documentación técnica y textos académicos.
+
+Licencia de uso:
+El contenido aquí presentado se encuentra protegido y está destinado exclusivamente para **fines educativos, académicos o de investigación sin ánimo de lucro**. Todos los derechos de autor están reservados al autor de este trabajo.
+
+Queda prohibido el uso comercial o la redistribución de estos archivos sin autorización expresa.
+
+Si se desea utilizar total o parcialmente este contenido en trabajos académicos, investigaciones, presentaciones o publicaciones, es obligatorio dar el debido crédito al autor, referenciando el trabajo de tesis original.
+
+Referencia sugerida:
+O. Aguirre, "Diseño Geométrico de Exoesqueleto Modular y Parametrizable para Movimientos de Rotación Articular", Trabajo de Grado, Universidad de los Andes, 2025.
+
+Gracias por respetar el trabajo intelectual y contribuir a la difusión ética del conocimiento.
